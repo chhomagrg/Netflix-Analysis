@@ -11,7 +11,7 @@ This project explores Netflix's movies and TV shows dataset to uncover trends in
 
 ## Dataset
 - `titles.csv`: Contains Netflix movie and show metadata (title, release year, genres, country, etc.).
-- Source: [Netflix Dataset on Kaggle](https://www.kaggle.com/datasets/).
+- Source: [Netflix Dataset on Kaggle]([https://www.kaggle.com/datasets/](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)).
 
 ## Technologies Used
 - **Python**: Data analysis & visualization
